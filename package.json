@@ -1,0 +1,28 @@
+{
+  "name": "jsboilerplate",
+  "version": "1.0.0",
+  "description": "Collection of js boilerplate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zendyani/JsBoilerplate.git"
+  },
+  "keywords": [
+    "babel",
+    "es6"
+  ],
+  "author": "Belakhdar Abdeldjalil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zendyani/JsBoilerplate/issues"
+  },
+  "homepage": "https://github.com/zendyani/JsBoilerplate#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "live-server": "^1.2.0"
+  }
+}
